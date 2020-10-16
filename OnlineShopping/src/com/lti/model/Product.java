@@ -11,9 +11,6 @@ public class Product {
 	       return price;
 	}
 	
-	public int getQuantity(){
-	       return quantity;
-	}
 	public int getProductId() {
 		return productId;
 	}
